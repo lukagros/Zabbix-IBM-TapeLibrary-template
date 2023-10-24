@@ -1,0 +1,1 @@
+# Zabbix-IBM-TapeLibrary-template
